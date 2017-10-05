@@ -1,1 +1,1 @@
-<center>test</cemter>
+<center>test</center>
